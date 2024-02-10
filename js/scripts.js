@@ -3,3 +3,4 @@ let pokemonList = [
     {name: 'Porygon2', height: 6, type: ['trace','analytic']},
     {name: 'Uxie', height: 3, type: ['levitate','psychic']},
 ];
+
